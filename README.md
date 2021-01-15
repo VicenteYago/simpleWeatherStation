@@ -6,7 +6,7 @@ The TFT display is connected by SPI, and the sensor through I2C.
 
 The TFT library used is https://github.com/Bodmer/TFT_eSPI
 
-Wiring configuration was made with the following information contained inside `/home/user/Arduino/libraries/TFT_eSPI/User_Setup.h`
+Wiring configuration was done with the indications of file `/home/user/Arduino/libraries/TFT_eSPI/User_Setup.h` :
 
 
 ```{txt}
