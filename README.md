@@ -25,7 +25,7 @@ Wiring configuration was done with the indications of file `/home/user/Arduino/l
 // ###### EDIT THE PIN NUMBERS IN THE LINES FOLLOWING TO SUIT YOUR ESP8266 SETUP ######
 
 // For NodeMCU - use pin numbers in the form PIN_Dx where Dx is the NodeMCU pin designation
-#define TFT_CS   PIN_D3  // Chip select control
+#define TFT_CS   PIN_D8  // Chip select control
 #define TFT_DC   PIN_D3  // Data Command control pin
 #define TFT_RST  PIN_D4  // Reset pin (could connect to NodeMCU RST, see next line)
 ```
